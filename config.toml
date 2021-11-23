@@ -1,0 +1,9 @@
+# Markov defaults
+
+[sequencer]
+type = 'ngrams'
+option = 3
+
+[generator]
+max_size = 3
+n_samples = 32
